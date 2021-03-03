@@ -3,5 +3,6 @@ name = "commons-rs"
 version = "0.0.1"
 authors = ["niuchangqing <ncq1993@188.com>"]
 description = "工具"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
